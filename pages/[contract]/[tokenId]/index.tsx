@@ -22,7 +22,7 @@ import {
 import { useAccount } from 'wagmi'
 
 // Environment variables
-// For more information about these variables
+// For more information about these variable
 // refer to the README.md file on this repository
 // Reference: https://nextjs.org/docs/basic-features/environment-variables#exposing-environment-variables-to-the-browser
 // REQUIRED
